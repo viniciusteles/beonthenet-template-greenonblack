@@ -74,15 +74,15 @@ h4, h4 a {
   color:                  #A5CD39;
 }
 
-#header li.current {
-	background-color:       #A5CD39;
+/*#header li.current {
+  background-color:       #A5CD39;
 }
 
 #header li.current a {
-	background-image:       url(../images/tab_corner_right_current.gif);
-	color:                  #000;
+  background-image:       url(../images/tab_corner_right_current.gif);
+  color:                  #000;
 }
-/* /Header tabbed menu */
+*//* /Header tabbed menu */
 
 
 /* Main content top segment */
@@ -190,12 +190,12 @@ ul#thumbnails a:hover label {
 
 
 /* Summary */
-#summary, #about_us, #data_sheet, .error_hints {
+#summary, #about_us, #data_sheet, .error_hints, #picture_description {
 	background-color:       #000;
 	border-color:           #555;
 }
 
-#summary p {
+#summary p, #picture_description p {
 	color:           #ccc;
 }
 
