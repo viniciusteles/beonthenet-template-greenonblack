@@ -48,11 +48,13 @@ h4, h4 a {
 }
 
 
-#header h1 img {
+#header h1 img,
+#header h1 a {
   color:                  #A5CD39;
 }
-#header h1 a:hover img {
-  color:                  #CCC;
+#header h1 a:hover img,
+#header h1 a:hover {
+  color:                  #AFD93D;
 }
 
 #header li {
