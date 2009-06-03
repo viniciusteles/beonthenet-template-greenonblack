@@ -169,6 +169,16 @@ body.videos #thumbnails h2 a:hover {
 	color: #A5CD39;
 }
 
+#thumbnails h2, #thumbnails h2 a:link {
+  color:                  #555;
+}
+#thumbnails h2 a:hover {
+  color:                  #A5CD39;
+}
+#thumbnails h3, #thumbnails h3 a:link {
+  color:                  #A5CD39;
+}
+
 ul#thumbnails li div a {
 	background:             #000 url(../images/thumbnail_box_background.gif) no-repeat;
 }

@@ -101,6 +101,9 @@ ul#thumbnails li {
 #thumbnails h3 a {
   font-size:              100%;
 }
+#thumbnails h3 a:hover {
+  text-decoration:        underline;
+}
 
 ul#thumbnails li div a {
   text-align:             center;
